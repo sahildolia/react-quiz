@@ -32,7 +32,7 @@ function DateCounter() {
   };
 
   return (
-    <div className="counter">
+    <div className="counter"> 
       <div>
         <input
           type="range"
